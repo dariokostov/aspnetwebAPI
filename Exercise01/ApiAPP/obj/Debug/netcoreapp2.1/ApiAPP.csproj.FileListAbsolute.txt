@@ -1,0 +1,14 @@
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\bin\Debug\netcoreapp2.1\ApiAPP.deps.json
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\bin\Debug\netcoreapp2.1\ApiAPP.runtimeconfig.json
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\bin\Debug\netcoreapp2.1\ApiAPP.runtimeconfig.dev.json
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\bin\Debug\netcoreapp2.1\ApiAPP.dll
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.csprojAssemblyReference.cache
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.csproj.CoreCompileInputs.cache
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.RazorAssemblyInfo.cache
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.RazorAssemblyInfo.cs
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.AssemblyInfoInputs.cache
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.AssemblyInfo.cs
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.RazorTargetAssemblyInfo.cache
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\bin\Debug\netcoreapp2.1\ApiAPP.pdb
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.dll
+C:\Users\Dario Kostov\Desktop\SEDC\API\Homework.Class02\ApiAPP\obj\Debug\netcoreapp2.1\ApiAPP.pdb
